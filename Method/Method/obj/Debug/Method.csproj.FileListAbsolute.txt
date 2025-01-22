@@ -1,0 +1,7 @@
+C:\Users\Geethamma\Desktop\dotnet\programing\Method\Method\bin\Debug\Method.exe.config
+C:\Users\Geethamma\Desktop\dotnet\programing\Method\Method\bin\Debug\Method.exe
+C:\Users\Geethamma\Desktop\dotnet\programing\Method\Method\bin\Debug\Method.pdb
+C:\Users\Geethamma\Desktop\dotnet\programing\Method\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\Geethamma\Desktop\dotnet\programing\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\Geethamma\Desktop\dotnet\programing\Method\Method\obj\Debug\Method.exe
+C:\Users\Geethamma\Desktop\dotnet\programing\Method\Method\obj\Debug\Method.pdb
