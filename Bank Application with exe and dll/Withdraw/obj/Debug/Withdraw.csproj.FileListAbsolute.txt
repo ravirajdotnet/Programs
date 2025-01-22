@@ -1,0 +1,6 @@
+C:\Users\Geethamma\Desktop\dotnet\programing\Bank Application\Withdraw\bin\Debug\Withdraw.dll
+C:\Users\Geethamma\Desktop\dotnet\programing\Bank Application\Withdraw\bin\Debug\Withdraw.pdb
+C:\Users\Geethamma\Desktop\dotnet\programing\Bank Application\Withdraw\obj\Debug\Withdraw.csproj.AssemblyReference.cache
+C:\Users\Geethamma\Desktop\dotnet\programing\Bank Application\Withdraw\obj\Debug\Withdraw.csproj.CoreCompileInputs.cache
+C:\Users\Geethamma\Desktop\dotnet\programing\Bank Application\Withdraw\obj\Debug\Withdraw.dll
+C:\Users\Geethamma\Desktop\dotnet\programing\Bank Application\Withdraw\obj\Debug\Withdraw.pdb

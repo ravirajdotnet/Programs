@@ -1,0 +1,6 @@
+C:\Users\Geethamma\Desktop\dotnet\programing\Bank Application\Deposite\bin\Debug\Deposite.dll
+C:\Users\Geethamma\Desktop\dotnet\programing\Bank Application\Deposite\bin\Debug\Deposite.pdb
+C:\Users\Geethamma\Desktop\dotnet\programing\Bank Application\Deposite\obj\Debug\Deposite.csproj.AssemblyReference.cache
+C:\Users\Geethamma\Desktop\dotnet\programing\Bank Application\Deposite\obj\Debug\Deposite.csproj.CoreCompileInputs.cache
+C:\Users\Geethamma\Desktop\dotnet\programing\Bank Application\Deposite\obj\Debug\Deposite.dll
+C:\Users\Geethamma\Desktop\dotnet\programing\Bank Application\Deposite\obj\Debug\Deposite.pdb

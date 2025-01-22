@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank Application", "Bank Application\Bank Application.csproj", "{FC482465-852C-4B6A-9FA6-0817630171CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deposite", "Deposite\Deposite.csproj", "{2430DED8-BCF7-46FC-89E6-D76FA1144E11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Withdraw", "Withdraw\Withdraw.csproj", "{708943D5-AE77-44FF-9542-F7726D573CA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBalance", "CheckBalance\CheckBalance.csproj", "{86C4875A-A641-4971-AB53-CE34B7843EC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC482465-852C-4B6A-9FA6-0817630171CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC482465-852C-4B6A-9FA6-0817630171CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC482465-852C-4B6A-9FA6-0817630171CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC482465-852C-4B6A-9FA6-0817630171CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2430DED8-BCF7-46FC-89E6-D76FA1144E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2430DED8-BCF7-46FC-89E6-D76FA1144E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2430DED8-BCF7-46FC-89E6-D76FA1144E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2430DED8-BCF7-46FC-89E6-D76FA1144E11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708943D5-AE77-44FF-9542-F7726D573CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708943D5-AE77-44FF-9542-F7726D573CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708943D5-AE77-44FF-9542-F7726D573CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708943D5-AE77-44FF-9542-F7726D573CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C4875A-A641-4971-AB53-CE34B7843EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C4875A-A641-4971-AB53-CE34B7843EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C4875A-A641-4971-AB53-CE34B7843EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C4875A-A641-4971-AB53-CE34B7843EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
