@@ -1,0 +1,7 @@
+C:\Users\Geethamma\Desktop\dotnet\programing\Inheritence\Inheritence\bin\Debug\Inheritence.exe.config
+C:\Users\Geethamma\Desktop\dotnet\programing\Inheritence\Inheritence\bin\Debug\Inheritence.exe
+C:\Users\Geethamma\Desktop\dotnet\programing\Inheritence\Inheritence\bin\Debug\Inheritence.pdb
+C:\Users\Geethamma\Desktop\dotnet\programing\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.AssemblyReference.cache
+C:\Users\Geethamma\Desktop\dotnet\programing\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Geethamma\Desktop\dotnet\programing\Inheritence\Inheritence\obj\Debug\Inheritence.exe
+C:\Users\Geethamma\Desktop\dotnet\programing\Inheritence\Inheritence\obj\Debug\Inheritence.pdb
