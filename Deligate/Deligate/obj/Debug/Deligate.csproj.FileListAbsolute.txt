@@ -1,0 +1,7 @@
+S:\dotnet\programing\Deligate\Deligate\bin\Debug\Deligate.exe.config
+S:\dotnet\programing\Deligate\Deligate\bin\Debug\Deligate.exe
+S:\dotnet\programing\Deligate\Deligate\bin\Debug\Deligate.pdb
+S:\dotnet\programing\Deligate\Deligate\obj\Debug\Deligate.csproj.AssemblyReference.cache
+S:\dotnet\programing\Deligate\Deligate\obj\Debug\Deligate.csproj.CoreCompileInputs.cache
+S:\dotnet\programing\Deligate\Deligate\obj\Debug\Deligate.exe
+S:\dotnet\programing\Deligate\Deligate\obj\Debug\Deligate.pdb
